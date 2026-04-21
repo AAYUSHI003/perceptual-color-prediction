@@ -291,7 +291,7 @@ pip install -r requirements.txt
 # 📈 Results
 
 * Mean ΔE: ~0.3–0.5
-* Accuracy (ΔE ≤ 0.6): ~90%+
+* Accuracy (ΔE ≤ 0.6): ~92%+
 * Strong correlation between predicted and actual LAB values
 
 ---
