@@ -328,8 +328,7 @@ pip install -r requirements.txt
 
 # 👩‍💻 Author
 
-**Himanshi and Aayushi**
-B.Tech Final Year Project
+This was a joint B.Tech final year project of **Himanshi Bhamu  and Aayushi Agarwal**
 
 ---
 
